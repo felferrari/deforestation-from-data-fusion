@@ -1,0 +1,12 @@
+{
+    "exp_n":7,
+    "model_props":{
+        "name":"resunet-if-postcloud",
+        "function":"opt_post_cmap_resunet",
+        "input":"opt+sar_sar_cmap",
+        "output":"pred_fus",
+        "combined_model":true,
+        "model_1":3,
+        "model_2":2
+    }
+}

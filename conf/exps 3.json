@@ -1,0 +1,10 @@
+{
+    "exp_n":3,
+    "model_props":{
+        "name":"resunet-if",
+        "function":"resunet",
+        "input":"opt+sar",
+        "output":"pred_fus",
+        "combined_model":false
+    }
+}

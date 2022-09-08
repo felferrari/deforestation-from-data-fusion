@@ -1,0 +1,10 @@
+{
+    "exp_n":2,
+    "model_props":{
+        "name":"resunet-sar",
+        "function":"resunet",
+        "input":"sar",
+        "output":"pred_fus",
+        "combined_model":false
+    }
+}

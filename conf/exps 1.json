@@ -1,0 +1,10 @@
+{
+    "exp_n":1,
+    "model_props":{
+        "name":"resunet-opt",
+        "function":"resunet",
+        "input":"opt",
+        "output":"pred_fus",
+        "combined_model":false
+    }
+}

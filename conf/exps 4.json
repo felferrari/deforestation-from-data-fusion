@@ -1,0 +1,10 @@
+{
+    "exp_n":4,
+    "model_props":{
+        "name":"resunet-ef",
+        "function":"early_fusion_resunet",
+        "input":"opt_sar",
+        "output":"pred_fus",
+        "combined_model":false
+    }
+}

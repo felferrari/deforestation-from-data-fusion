@@ -1,0 +1,10 @@
+{
+    "exp_n":5,
+    "model_props":{
+        "name":"resunet-lf",
+        "function":"late_fusion_resunet",
+        "input":"opt_sar",
+        "output":"pred_fus",
+        "combined_model":false
+    }
+}
